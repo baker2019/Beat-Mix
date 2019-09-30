@@ -18,7 +18,7 @@ You can view a video demonstration of the Beat-Mix here:
 <p> Clic Link to view and use localy</<p>
 <ul>
 <li>
-<a href="https://b8ker_designs.netlify.com/beat_mix">Beat-Mix</a>
+<a href="#">Beat-Mix</a>
 </li>
 </ul>
 </div>
